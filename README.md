@@ -32,8 +32,7 @@ This script is designed to clean and speed up your PC. This script performs main
 Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"
 ```
 
-- Restore default Windows services 
-[Restore Windows default services](https://www.tenforums.com/attachments/tutorials/334219d1621785267-restore-default-services-windows-10-a-windows_10_default_services.zip) Registry file containing default values, open file to merge settings. 
+- [Restore Windows default services](https://www.tenforums.com/attachments/tutorials/334219d1621785267-restore-default-services-windows-10-a-windows_10_default_services.zip) Registry file containing default values, open file to merge settings. 
 
 <br>
 
