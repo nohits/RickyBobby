@@ -22,7 +22,7 @@ This script is designed to clean and speed up your PC. This script performs main
   Import-Module RickyBobby
 
 - To run the script or function, execute from powershell:
-  Invoke-RickyBobby
+  Enhance-Pc
 ```
 <br>
 
